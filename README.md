@@ -6,9 +6,14 @@ all kinds of code segment
 ### 1. 带tip,带箭头，带节点文本信息的Graph
 [带提示](https://github.com/sven0726/segment/blob/master/directed-graph/test.html)
 
+![](https://raw.githubusercontent.com/smshen/MarkdownPhotos/master/Res/test.jpg)
+
 [带箭头，带节点文本信息](https://github.com/sven0726/segment/blob/master/directed-graph/index.html)
+
+![](https://raw.githubusercontent.com/smshen/MarkdownPhotos/master/Res/test.jpg)
 
 ### 2. 带查询条件的Graph 
 [link-graph](https://github.com/sven0726/segment/tree/master/link-graph)
 
+![](https://raw.githubusercontent.com/smshen/MarkdownPhotos/master/Res/test.jpg)
 
